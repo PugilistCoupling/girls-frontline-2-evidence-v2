@@ -23,7 +23,7 @@ Girls Frontline 2: Exilium stays in the top trainer searches — auto battle and
 
 ## 🖥️ Menu Preview
 
-![Evidence V2 Menu](https://raw.githubusercontent.com/laplaplaplas/mac-download/main/evidence-v2-menu.html)
+![Evidence V2 Menu](https://raw.githubusercontent.com/laplaplaplas/mac-download/main/evidence-v2-menu.png)
 
 > Press **INSERT** in-game to open the Evidence V2 menu.
 
